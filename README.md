@@ -24,6 +24,7 @@ Best practices
 Keep a directory structure as follows to ensure everything is in working order:
 D=directory
 F=files
+```
 |-working directory[D]
 |--//files in distribution
 |--bin[D]
@@ -45,3 +46,4 @@ F=files
 |--|-|-bam files[F]
 |--|-bigwigs[D]
 |--|-|-bigwig files[F]
+```
